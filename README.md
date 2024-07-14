@@ -1,6 +1,5 @@
 - Desenvolvimento Full Stack
-- Turma: 23.3 
-- Instituiçao: Estacio de Sá
+- Instituiçao: Estácio de Sá
 - Aluno: Anderson Rech
 - Matricula: 202304442215
 ---
